@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @geology1
+- 👋 Hi, I’m Geo@geology1
 - 👀 I’m interested in python, oemof, ESOM, ABM 
 - 🌱 I’m currently learning oemof
 - 💞️ I’m looking to collaborate on energy systems modelling, model coupling, 
